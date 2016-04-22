@@ -10,22 +10,44 @@
     position: relative;
 }
 
-.site-title {
+.site-top-frame {
+    // border: 2px solid red;
     font-size: 26px;
     font-weight: 300;
     line-height: 56px;
     letter-spacing: -1px;
-    margin-bottom: 0;
-    float: left;
+    text-align: center;
+}
 
-    &,
-    &:visited {
-        color: $grey-color-dark;
+.site-top-frame--layer-one {
+    // border: 2px solid green;
+    overflow: auto;
+    margin: auto;
+    max-width: 400px;
+}
+.site-top-frame--layer-one--logo {
+    float: left;
+    width: 200px;
+}
+.site-top-frame--layer-one--title {
+    float: left;
+    color: $blue-color;
+}
+
+.site-top-frame-services {
+    color: $green-color;
+}
+
+.site-top-frame-phone {
+    a {
+      color: $blue-color;
+      font-size: 30px;
+      font-weight: bold;
     }
 }
 
 .site-nav {
-    float: right;
+    //float: right;
     line-height: 56px;
 
     .menu-icon {
