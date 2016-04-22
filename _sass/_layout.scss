@@ -14,13 +14,12 @@
     // border: 2px solid red;
     font-size: 26px;
     font-weight: 300;
-    line-height: 56px;
+    line-height: 50px;
     letter-spacing: -1px;
     text-align: center;
 }
 
 .site-top-frame--layer-one {
-    // border: 2px solid green;
     overflow: auto;
     margin: auto;
     max-width: 400px;
@@ -28,13 +27,20 @@
 .site-top-frame--layer-one--logo {
     float: left;
     width: 200px;
+    margin-right:20px;
 }
 .site-top-frame--layer-one--title {
     float: left;
     color: $blue-color;
+    font-size: 28px;
+    font-weight: bold;
 }
 
 .site-top-frame-services {
+    color: $green-color;
+} 
+
+.site-top-frame-catch {
     color: $green-color;
 }
 
