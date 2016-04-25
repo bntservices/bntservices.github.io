@@ -25,12 +25,12 @@
     max-width: 400px;
 }
 .site-top-frame--layer-one--logo {
-    float: left;
+    // float: left;
     width: 200px;
-    margin-right:20px;
+    margin: auto;
 }
 .site-top-frame--layer-one--title {
-    float: left;
+    // float: left;
     color: $blue-color;
     font-size: 28px;
     font-weight: bold;
@@ -197,6 +197,8 @@
  */
 .page-content {
     padding: $spacing-unit 0;
+    margin: auto;
+    max-width: $content-width;
 }
 
 .page-heading {
