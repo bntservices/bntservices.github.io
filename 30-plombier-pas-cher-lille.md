@@ -4,6 +4,7 @@ title: Plombier pas cher Lille et métropole Lilloise
 title_link: Plombier pas cher
 permalink: /plombier-pas-cher-lille/
 description: Plombier pas cher Lille et Métropole Lilloise, spécialisé en dépannage. rdv ou urgence.
+tags: plombier lille lilloise chauffagiste dépannage urgence
 ---
 
 ## Plombier pas cher Lille et métropole Lilloise

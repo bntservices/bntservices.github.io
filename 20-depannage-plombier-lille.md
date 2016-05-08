@@ -4,6 +4,7 @@ title: Spécialiste Dépannage Plombier Lille 7j/7
 title_link: Dépannage
 permalink: /depannage-plombier-lille/
 description: Plombier Lille et Métropole Lilloise, spécialisé en dépannage. rdv ou urgence.
+tags: plombier lille lilloise chauffagiste dépannage urgence
 ---
 
 ## Professionnel de dépannage plombier Lille

@@ -4,6 +4,7 @@ title: Plombier Lille - Dépannage 7j/7
 title_link: Plombier Lille
 permalink: /plombier-lille/
 description: Plomberie à Lille, installation et réparation de votre plomberie et de vos sanitaires sur rdv ou en urgences
+tags: plombier lille lilloise chauffagiste dépannage urgence
 ---
 
 
