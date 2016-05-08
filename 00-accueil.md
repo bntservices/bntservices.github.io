@@ -11,14 +11,14 @@ description: description dans fichier index.html
 
 BMC Services spécialiste dans le domaine de la plomberie. Equipe qui intervient rapidement à tout moment 24h/24 sur Lille et métropole Lilloise. Egalement joignable les week-ends, les jours non ouvrables et même pendant les périodes de vacances. A votre entière disposition, peu importe l’heure à laquelle votre besoin se fait pressant, appelez-nous et plombier Lille se rend immédiatement chez vous.
 
-![alt text](images/plomberie.png "Logo Title Text 1")
+![plombier lille](images/plomberie.png "plombier lille")
 
 
 ## Plombier à votre disposition sur Lille tous les jours pour un travail de qualité
 
 Plombier fait tout pour faciliter votre confort, plombier peut être là dans les meilleurs délais. Plombier Lille peut être chez vous en 30 minutes pour trouver une solution à votre problème de plomberie.
 
-![alt text](images/chaudiere.png "Logo Title Text 1")
+![chauffagiste lille](images/chaudiere.png "chauffagiste lille")
 
 
 
