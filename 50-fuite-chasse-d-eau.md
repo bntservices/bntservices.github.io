@@ -24,6 +24,8 @@ Les prestations que BMC Services réalise sur les chasses d’eau WC sont nombre
  - fuite du mécanisme de chasse d’eau
  - fuite robinet WC
 
+![remplacement chasse d'eau](/images/fuite-chasse-d-eau-0.jpg "remplacement chasse d'eau")
+
 ## Fuite chasse d’eau réservoir WC Lille
 
 L’écoulement à gros débit indique qu’il y a une fuite de la chasse d'eau de votre WC. 
@@ -49,6 +51,8 @@ Ensuite, le dépannage se fera en 4 étapes, il :
  - nettoiera le joint du mécanisme et le fond de la cuve avec de l’éponge imbibé de vinaigre dans le but de désinfecter les dépôts éventuels de calcaire.
  - vérifiera l’état du clapet et si besoin est, il le remplacera.
  - il remontera l’ensemble et vérifiera l’aboutissement espéré par un essai à vide.
+
+![remplacement chasse d'eau](/images/fuite-chasse-d-eau-1.jpg "remplacement chasse d'eau")
 
 ## Fuite sur flotteur Lille
 
