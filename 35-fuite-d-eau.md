@@ -1,11 +1,19 @@
 ---
 layout: page
-title: Fuite chasse d'eau Lille et métropole Lilloise 
-title_link: Fuite chasse d'eau
-permalink: /fuite-chasse-d-eau-lille/
-description: Plombier Lille et Métropole Lilloise, fuite chasse d'eau
+title: Fuite d'eau Lille et métropole Lilloise 
+title_link: Fuite d'eau
+permalink: /fuite-d-eau-lille/
+description: Plombier Lille et Métropole Lilloise, fuite d'eau, fuite chasse d'eau
 tags: plombier lille lilloise fuite chasse d'eau remplacement urgence
 ---
+
+Les fuites les plus fréquentes dans la maison sont :
+
+ - les fuites de chasse d'eau
+ - les fuites de robinets
+ - les fuites des toilettes
+
+## Fuite chasse d'eau
 
 Les WC ont souvent des pannes de chasse d’eau dont vous ignorez la cause.
 Face à cela, vous aimeriez avoir une intervention de qualité. 
@@ -77,7 +85,13 @@ Si l’eau coule à l’intérieur ou à l’extérieur de la cuvette de votre W
 Par conséquent, l’eau pourrait s’écouler dans la cuvette mais aussi à l’extérieur. 
 Pour y remédier, il suffira pour BMC Serivces plombier Lille de remplacer ce joint d’étanchéité. 
 
-## Fuite au niveau du robinet d’eau
+![fuite salon](/images/fuite-salon.jpg "fuite salon")
+
+## Marques de chasse d’eau
+
+Les marques de chasse d’eau sont nombreuses et varient selon leurs mécanismes de rabattage qui sont les suivantes : mécanisme de chasse piston d’évacuation, cloc toc, éco set, chasse d’eau laiton, chasse d’eau à câble/ à robinet flotteur/ à tirette/ à boutons poussoir/ à bouton poussoir double débit. Selon vos moyens financiers, vous trouverez sur le marché des chasses d’eau à l’état neuf ou d’occasion. Vous aurez à faire vos choix entre ces différentes marques : Grohe, Amazon, Geberit, Nicoll, Brocozor, Siamp, Comap, Jacob Delafon, Gripp, etc.
+
+## Fuite robinet Lille
 
 À tout moment, vous pouvez avoir un robinet qui goutte. 
 Cela peut être dû à une mauvaise utilisation, la vétusté d’un appareil et autres. 
@@ -90,7 +104,16 @@ Ensuite, il retirera le joint endommagé, installera un nouveau joint similaire 
 Par contre, si le robinet flotteur de votre chasse eau n’arrête plus l’eau c’est qu’il est défectueux ou coincé. 
 Notre plombier Lille coupera le robinet d’arrêt ou l’adduction générale si celui-ci ne fonctionne pas. Puis, il démontera le robinet flotteur et le sortira du réservoir. Il soufflera à l’intérieur du robinet, pour vérifier s’il est obstrué par une saleté, afin de procéder à son changement si la nécessité se pose. Après avoir nettoyé toutes les pièces de votre appareil, il les remettra en ordre. Mon technicien pourra aussi changer le mécanisme de votre chasse d’eau, si vous le souhaitez.
 
-## Marques de chasse d’eau
+## Fuite d'eau douche Lille
 
-Les marques de chasse d’eau sont nombreuses et varient selon leurs mécanismes de rabattage qui sont les suivantes : mécanisme de chasse piston d’évacuation, cloc toc, éco set, chasse d’eau laiton, chasse d’eau à câble/ à robinet flotteur/ à tirette/ à boutons poussoir/ à bouton poussoir double débit. Selon vos moyens financiers, vous trouverez sur le marché des chasses d’eau à l’état neuf ou d’occasion. Vous aurez à faire vos choix entre ces différentes marques : Grohe, Amazon, Geberit, Nicoll, Brocozor, Siamp, Comap, Jacob Delafon, Gripp, etc.
+Un bac de douche par nature est étanche, il est rare qu'un bac de douche fuit.
+Au niveau de l'écoulement, les risques de fuites sont plus fréquents.
+La bonde de la douche peut avoir bougée, s'être dévissée et causer une fuite.
+Parfois cela peut venir du joint silicone sur le contour du bac de douche. 
+Avec le temps, ce dernier devient poreux et il créé des infiltrations d'eau.
+
+Chez BMC Services, nos équipes peuvent intervenir rapidement.
+Vous proposer une devis sur l'intervention à réaliser pour un moindre coût.
+Dès que le devis sera accepté, BMC Services plomberie Lille interviendra et colmatera la fuite.
+
 
