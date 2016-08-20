@@ -12,7 +12,7 @@ Plombier disponible toute l'année pour interventions courantes dans le domaine 
 
 Nos plombiers BMC Services font tout pour faciliter votre confort, plombiers Lille peuvent être là dans les meilleurs délais. Plombiers Lille peuvent être chez vous en 30 minutes pour trouver une solution à votre problème de plomberie.
 
-![plombier lille](images/plomberie.png "plombier lille")
+![plombier lille](/images/plomberie.png "plombier lille")
 
 ## Services de plomberie Lille et Métropole
 
@@ -33,7 +33,7 @@ Nos plombiers BMC Services font tout pour faciliter votre confort, plombiers Lil
  - Devis gratuit par téléphone ou par email
 
 
-![chauffagiste lille](images/chaudiere.png "chauffagiste lille")
+![chauffagiste lille](/images/chaudiere.png "chauffagiste lille")
 
 
 ## Intervention en urgence sur Lille

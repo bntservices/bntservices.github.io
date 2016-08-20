@@ -9,6 +9,8 @@ tags: plombier lille lilloise chauffagiste dépannage urgence
 
 ## Plombier pas cher Lille et métropole Lilloise
 
+![plombier lille pas cher](/images/pas-cher-2.jpg "plombier lille pas cher")
+
 BMC Services, basé sur Lille, résout tous vos problèmes de plomberie. 
 Plomberie Lille peut vous être utile en vous proposant des prestations de qualité supérieure à des tarifs uniques défiants toute concurrence sur le marché. 
 
@@ -23,6 +25,8 @@ Vu le nombre de difficultés que rencontrent les habitants de Lille et métropol
 De ce fait, vous pouvez contacter à tout moment nos plombiers Lille pas chers.
 
 ## Services de plomberie à prix attractif sur Lille et métropole
+
+![plombier lille pas cher](/images/pas-cher-1.jpg "plombier lille pas cher")
 
 BMC Serivces vous fournit un service express en plomberie à des prix très attractifs, afin de résoudre tout problème avant que la situation ne devienne critique. 
 Les travaux de Plombier Lille sont à bas prix et rapides. 
