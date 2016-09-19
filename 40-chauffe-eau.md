@@ -4,7 +4,7 @@ title: Pose et entretien de chauffe-eau
 title_link: Chauffe-eau
 permalink: /chauffe-eau-lille/
 description: Plombier Lille et Métropole Lilloise, pose et entretien chauffe-eau
-tags: plombier lille lilloise pose entretien chauffe-eau urgence lille
+tags: plombier lille lilloise pose entretien chauffe-eau urgence
 ---
 
 ## Remplacement chauffe-eau
