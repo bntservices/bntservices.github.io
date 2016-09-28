@@ -3,13 +3,15 @@ DONE - modifier correctement la description des pages existantes
 
 DONE - créer un sitemap.xml
 
-NON ça ne sert plus à rien - ajouter les méta keywords
+NON  - ça ne sert plus à rien - ajouter les méta keywords
 
 DONE - Monter la page d'accueil à 500 mots
 
-- Monter la page dépannage plombier Lille à 500 mots
+DONE - Monter la page dépannage plombier Lille à 500 mots
 
-- Monter la page plombier lille pas cher lille à 500 mots
+DONE - Monter la page plombier lille pas cher lille à 500 mots
+
+- ajouter une page wasquhal en s'inspirant de http://plombier-du-nord.fr/wasquehal/
 
 - Utiliser le site SEO http://www.edidier.com/analyse-web/fr/www/plomberie-lille-plombier.fr
 
@@ -28,6 +30,10 @@ toilette suspendu plombier lille.txt
 ## Documentation
 
 un bon SEO c'est 1000 mots par pages.
+
+ wc -w *.md
+
+
 > monter à 500 pour commencer.
 ensuite 700 mots
 
