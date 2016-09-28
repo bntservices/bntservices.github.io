@@ -7,14 +7,11 @@ description: Plombier Lille et Métropole Lilloise avis
 tags: plombier lille avis
 ---
 
-
 **il y a 3 semaines**
-Intervention rapide, compétant dans le domaine.
-Techniciens vraiment sympathique. 
-Je recommande définitivement cette société vous pouvez y aller les yeux fermés
+Merci pour la rapidité d'intervention ! Surtout avec une inondation dû à mon lavabo... Le service est parfait, peu onéreux et en plus le technicien est très sympathique. Je recommande !
 
-![plombier lille avis alain](/images/avis-0.jpg "plombier lille avis alain")
-Alain Dujart
+![plombier lille avis Jessica](/images/avis-2.jpg "plombier lille avis Jessica")
+Jessica Lefranc
 
 -
 
@@ -27,7 +24,10 @@ Anne Glamont
 -
 
 **il y a 3 mois**
-Merci pour la rapidité d'intervention ! Surtout avec une inondation dû à mon lavabo... Le service est parfait, peu onéreux et en plus le technicien est très sympathique. Je recommande !
+Intervention rapide, compétant dans le domaine.
+Techniciens vraiment sympathique. 
+Je recommande définitivement cette société vous pouvez y aller les yeux fermés
 
-![plombier lille avis Jessica](/images/avis-2.jpg "plombier lille avis Jessica")
-Jessica Lefranc
+![plombier lille avis alain](/images/avis-0.jpg "plombier lille avis alain")
+Alain Dujart
+
