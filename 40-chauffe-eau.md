@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Pose et entretien de chauffe-eau
+title: Pose et entretien de chauffe-eau Lille
 title_link: Chauffe-eau
 permalink: /chauffe-eau-lille/
-description: Plombier Lille et Métropole Lilloise, pose et entretien chauffe-eau
-tags: plombier lille lilloise pose entretien chauffe-eau urgence cumulus
+description: Plombier Lille et Métropole Lilloise, pose et entretien chauffe-eau Lille
+tags: plombier lille lilloise pose entretien dépannage chauffe-eau urgence cumulus
 ---
 
 ## Remplacement chauffe-eau
@@ -17,9 +17,13 @@ Le plus souvent, le chauffe-eau est placé dans des endroits peu accessibles:
  - placard
  - sous-plafond
 
-C'est pour cette raison qu'il est préférable d'appeler un professionnel pour faire une tel remplacement.
+C'est pour cette raison qu'il est préférable d'appeler un professionnel pour faire un tel remplacement.
 BMC Service plombier Lille intervient rapidement et remplace tout type de chauffe-eau.
-Nous avons toujours en stock un chauffe-eau adapté à votre installation.
+Nous avons toujours en stock un chauffe-eau adapté à votre installation et à vos besoins.
+
+Avant tout remplacement de chauffe eau, plombier lille évalue la capacité d'eau chaude nécessaire à votre situation.
+Vous n'avez pas les mêmes besoins en eau chaude si vous êtes une famille avec deux enfants ou si vous êtes une personne célibataire.
+
 Rapidement, vous retrouverez de l'eau chaude chez vous pour votre plus grand confort.
 
 ![chauffe-eau](/images/chauffe-eau-0.jpg "chauffe-eau")
@@ -30,12 +34,17 @@ Le chauffe-eau s'entartre progressivement au cours de son utilisation.
 Le calcaire se dépose au fond de la cuve, principalement sur la résistance.
 La résistance est en charge de chauffer l'eau de la cuve.
 Plus la résistance est entartrée et plus il est difficile de chauffer le contenu de la cuve.
-Cela entraîne une surconsommation d'électrécité pour l'utilisateur.
+Cela entraîne une surconsommation d'électricité pour l'utilisateur.
+Et donc des factures EDF plus importantes.
+Plombier Lille vous propose de réduire vos factures d'éléctricité en entretenant régulièrement votre chauffe eau.
 
-BMC Services plombier Lille et métropole peut l'éviter en faisant l'entretien de votre chauffe-eau.
+BMC Services plombier Lille et métropole peut éviter cela en faisant l'entretien de votre chauffe-eau.
 Annuellement, un technicien intervient rapidemenent à votre domicile pour votre entretien chauffe-eau.
 Il vérifie alors le bon fonctionnement de la résistantce.
-Puis BMC Services plombier Lille va détartrer la cuve de votre chauffe-eau.
+Puis BMC Services plombier Lille va:
+
+ - détartrer la cuve de votre chauffe-eau
+ - vérifier que les organes de protection anti-corrosion son en bon état
 
 Cet entretien chauffe-eau vous permet:
 
@@ -47,8 +56,8 @@ Cet entretien chauffe-eau vous permet:
 ## Fuite chauffe-eau
 
 Il peut arriver qu'un chauffe-eau se mette à fuir. 
-Cela est plus fréquent que l'on veut bien le croire.
-Si un chauffe-eau finit par fuire, c'est que la cuve est percée.
+Cela arrive plus fréquent que l'on veut bien le croire.
+Si un chauffe-eau finit par fuire, c'est malheureusement que la cuve est percée.
 Une cuve se perce lorsque le systême anti-corrosion ne fonctionne plus.
 Il existe 2 types de systême anti-corrosion sur les chauffe-eau:
  - l'anode sacrificielle
@@ -58,7 +67,7 @@ Lorsque l'un de ces 2 systêmes ne fonctionne plus, la cuve du chauffe-eau est s
 C'est alors que la cuve se perce et que le chauffe-eau se met à fuire.
 Face à cela, une seule solution le remplacement du chauffe-eau par un nouveau avec un systême anti-corrosion efficace.
 
-BMC Services plombier Lille peut intervenir rapidement et vous remplacer votre chauffe-eau qui fuit.
+Il est important de remplacer le chauffe-eau au plus vite pour que la fuite n'entraîne pas de dégât dans l'habitation. BMC Services plombier Lille peut intervenir rapidement et vous remplacer votre chauffe-eau qui fuit.
 Nos techniciens remplaceront votre chauffe-eau par un équivalent et vous permettra de ré-utiliser l'eau chaude au plus vite.
 
 
@@ -66,9 +75,10 @@ Nos techniciens remplaceront votre chauffe-eau par un équivalent et vous permet
 
 Parfois l'eau chaude devient de plus en plus tiède pour au final être froide.
 Cela signifie que le chauffe-eau est fatigué, qu'il ne peut plus faire son travail.
-La raison à cela est que la résistance est morte.
+La raison à cela est que la résistance est endommagée.
 Remplacer une telle pièce est souvent plus chère que de remplacer le chauffe-eau par un neuf de meilleure qualité.
 Cela est toujours préférable pour le client.
+Parfois trouver la pièce de rechange est impossible car le modèle ne se fait plus.
 
 Chez BMC Services plombier Lille, la satisfaction est le coeur de notre activité.
 Lorsque nous constatons une fuite de chauffe-eau, nous propose toujours ce qui est mieux pour vous.
@@ -81,6 +91,7 @@ Cela signifie que le groupe de sécurité est entartré.
 Il faut alors remplacer le groupe de sécurité pour ne pas entraîner une sur-consommation d'eau.
 
 BMC Serices plombier Lille et métropole se propose de vous remplacer le groupe de sécurité de votre chauffe-eau dans les plus brefs délais. Nous intervenons rapidement sur toute la métropole lilloise.
+
 
 
 
