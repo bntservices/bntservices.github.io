@@ -18,6 +18,9 @@ tags: chauffagiste lille lilloise dépannage chaudiere gaz fioul urgence
  - Désembouage et nettoyage de circuit chauffage
  - Détartrage de chaudières
 
+![dépannage chaudiere](/images/depannage-chaudiere-0.jpg "dépannage chaudiere gaz")
+
+
 ## Besoin d'un dépannage chaudière sur Lille?
 
 Un problème sur une chaudière ne doit attendre pour être réglé.
@@ -35,6 +38,8 @@ Que ce soit une chaudière gaz ou fioul sur lille, BMC chauffagiste s'engage à 
 Si vous constatez que votre chaudière consomme trop de gaz, il faut appeler un **chauffagiste professionnel sur Lille**.
 Rapidement un artisan chauffagiste interviendra pour constater le problème sur la chaudière.
 Puis il règlera la chaudière au mieux pour qu'elle consomme moins.
+
+![dépannage chaudiere](/images/depannage-chaudiere-1.png "dépannage chaudiere gaz")
 
 ## Remplacement de pièces chaudière Lille
 
