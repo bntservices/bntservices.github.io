@@ -3,8 +3,8 @@ layout: page
 title: Entretien chaudière Lille et métropole Lilloise 
 title_link: Entretien chaudière
 permalink: /entretien-chaudiere-lille/
-description: Plombier Lille et Métropole Lilloise, entretien chaudière
-tags: plombier lille lilloise entretien chaudiere gaz urgence fuite
+description: Chauffagiste Lille et Métropole Lilloise, entretien chaudière
+tags: chauffagiste lille lilloise entretien chaudiere gaz fioul urgence 
 ---
 
 ## L'entretien de chaudière en bref
