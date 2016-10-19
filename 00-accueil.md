@@ -10,7 +10,7 @@ Plombier disponible toute l'année pour interventions courantes dans le domaine 
 
 ## Plombier sur place en 30min
 
-Nos plombiers BMC Services font tout pour faciliter votre confort, plombiers Lille peuvent être là dans les meilleurs délais. Plombiers Lille peuvent être chez vous en 30 minutes pour trouver une solution à votre problème de plomberie.
+BMC plombier sur Lille fait tout pour faciliter votre confort, **plombier Lille** peut être là dans les meilleurs délais. Plombier Lille peut être chez vous en 30 minutes pour trouver une solution à votre problème de plomberie.
 
 ![plombier lille](/images/plomberie.png "plombier lille")
 
@@ -38,34 +38,39 @@ Nos plombiers BMC Services font tout pour faciliter votre confort, plombiers Lil
 
 ## Intervention en urgence sur Lille
 
-Plombier Lille et métrople Lilloise intervient en urgence chez vous lorsque vous avez une urgences comme une fuite à réparer ou une panne de chaudière. En 30 minutes plombier Lille peut être chez vous pour toutes vos interventions.
-
+Plombier Lille et métrople Lilloise intervient en urgence chez vous lorsque vous avez une urgences comme une fuite à dépanner ou une dépannage de chaudière ou encore un dépannage sur un chauffe-eau qui ne chauffe plus. 
+En 30 minutes plombier Lille peut être chez vous pour toutes vos interventions de dépannage.
+Que ce soit un dépannage pour une fuite d'eau ou un dépannage sur un chauffe-eau qui ne chauffe plus, BMC plombier Lille intervient et en plus est pas cher.
+Nous comprenons que ne pas avoir de chauffage ou d'eau chaude n'est pas accéptable pour nos clients.
+Pour cela BMC plombier Lille intervient rapidement en urgence pour dépanner.
 
 ## Plombier diplomé et qualifié
 
-Plombier Lille et métrople est capable de répondre à toutes vos éxigences. Plombier issu d'un centre de formation réputé sur Roubaix. Être capable d’aider nos clients rapidement et efficacement est la devise de l'entreprise. L'équipe plombier Lille et métropole Lilloise. est spécialisée dans tout ce qui touche de près ou de loin le secteur de la plomberie. Plombier Lille effectue également des interventions portant sur l’installation, la réparation et la maintenance des équipements de canalisations et d’évacuation d’eau.
+Plombier Lille et métrople est capable de répondre à problèmes de fuite ou de chaudière. Plombier issu d'un centre de formation réputé sur Roubaix. Être capable d’aider nos clients rapidement et efficacement est la devise de l'entreprise. L'équipe plombier Lille et métropole Lilloise. est spécialisée dans tout ce qui touche de près ou de loin le secteur de la plomberie. Plombier Lille effectue également des interventions portant sur l’installation, la réparation et la maintenance des équipements de canalisations et d’évacuation d’eau.
 
 
 ## Un devis systématique de la part de Plombier Lille
 
 Chez BMC Services, satisfaire nos clients est une de nos priorités majeures.
-Pour avoir un devis, vous avez plusieurs possibilités. 
+Pour avoir un devis gratuit, vous avez plusieurs possibilités. 
 Par téléphone, un conseiller BMC Services vous conseille sur les tarifs en plomberie que nous pratiquons. 
-Vous pouvez également remplir un formulaire de demande de devis plomberie sur Lille (en cours de réalisation). 
-Un artisan plombier peut aussi se rendre chez vous pour faire un devis précis.
+Vous pouvez également remplir un formulaire de demande de devis plomberie sur Lille. 
+Un artisan plombier peut aussi se rendre chez vous pour faire un devis précis et gratuit.
 Ainsi vous saurez clairement ce que vous aurez à payer avec un devis clair et transparent.
+C'est pour cela que nous sommes connu pour être un plombier sur Lille professionnel et pas cher.
 
 
 ## Travail soigné par Plombier Lille
 
-Sur Lille, nos plombiers BMC Services interviennent de façon fiable et efficace.
+Sur Lille, BMC plombier intervient de façon fiable et efficace.
 Les travaux de plomberie réalisés suivent précisément votre devis remis par un de nos artisans.
-Aucun souci à avoir avec les prix indiqués sur nos factures, ils sont abordables et honnêtes par rapport au marché.
+Aucun souci à avoir avec les prix indiqués sur nos factures, ils sont pas cher et honnêtes par rapport au marché.
 Nous faisons tout nos efforts pour mettre nos compétences au services de Lille et de sa métropole.
 Après un diagnostique clair et précis, nos plombier Lille vous apportent une solution adéquate à votre problème de plomberie.
 Le choix technique choisi favorise une solution économique et durable tout en assurant un maximum de sécurité.
 Même si nos plombiers Lille donnent parfois l'impression de travailler dans l'empressement, c'est qu'ils
-maîtrisent parfaitement leur métier de plombier. Que ce soit une fuite d'eau, un détartrage chauffe-eau ou un entretien chaudière, ils gèrent.
+maîtrisent parfaitement leur métier de plombier. 
+Que ce soit une fuite d'eau, un détartrage chauffe-eau ou un entretien chaudière, ils gèrent.
 
 
 
