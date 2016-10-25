@@ -39,7 +39,7 @@ Nous sommes joignables même le week-end et même pendant les périodes de vacan
  - Désembouage et nettoyage de circuit chauffage
  - Détartrage de chaudières
 
-## Avantages d’un plombier pro sur Lille et métropole
+## Avantages d’un plombier pro sur Lille
 
  - Disponibilité et réactivité
  - Intervention en 30 minutes
@@ -86,6 +86,21 @@ Le choix technique choisi favorise une solution économique et durable tout en a
 Même si plombier Lille donne parfois l'impression de travailler dans l'empressement, c'est qu'ils
 maîtrisent parfaitement leur métier de plombier. 
 Que ce soit une fuite d'eau, un détartrage chauffe-eau ou un entretien chaudière, ils gèrent.
+
+## Un plombier pas cher sur Lille
+
+A des tarifs abordables, nous proposons de vous dépanner.
+Sans plus tarder faites appel à un plombier professionnel à des prix raisonnables.
+Remplacer un chauffe-eau ou faire l'entretien du chaudière est une chose mais faut-il encore que le tarif suive.
+C'est pour cela que nous vous proposons un devis pour chacune de nos interventions.
+Des clients satisfait est une éxigence pour nous.
+Si vous faites appel à nos services comme dépannage fuite d'eau ou pose de chaudière ou entretien pompe à chaleur, nous serons rapidement sur place chez vous pour réaliser vos travaux.
+Notre équipe est constituée d'expert dans le domaine de la plomberie et du chauffage.
+Cela leur permet d'intervenir plus rapidement que les autre.
+Ainsi BMC Services est moins cher et peut donc se dire un **plombier pas cher sur Lille**.
+
+
+
 
 
 
