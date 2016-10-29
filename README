@@ -11,6 +11,8 @@ DONE - Monter la page dépannage plombier Lille à 500 mots
 
 DONE - Monter la page plombier lille pas cher lille à 500 mots
 
+>>>> - Développer la page "chauffagiste Lille" >>> 600 mots
+
  - faire apparitre une partie "prix" dans chaque partie
 
  - ajouter une partie "robinet thermostatique" sur la page chauffagiste
@@ -40,6 +42,11 @@ depannage-plombier-lille.txt
 plombier-pas-cher-lille.txt
 douche italienne plombier lille.txt
 toilette suspendu plombier lille.txt
+
+## Fonctionnement de Jekyll
+
+quelle est la premiere page chargée?
+
 
 ## Documentation
 

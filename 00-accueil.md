@@ -61,7 +61,8 @@ Pour cela BMC plombier Lille intervient rapidement en urgence pour dépanner.
 
 ## Plombier diplomé et qualifié
 
-Plombier Lille et métrople est capable de répondre à problèmes de fuite ou de chaudière. Plombier issu d'un centre de formation réputé sur Roubaix. Être capable d’aider nos clients rapidement et efficacement est la devise de l'entreprise. L'équipe plombier Lille et métropole Lilloise. est spécialisée dans tout ce qui touche de près ou de loin le secteur de la plomberie. Plombier Lille effectue également des interventions portant sur l’installation, la réparation et la maintenance des équipements de canalisations et d’évacuation d’eau.
+Plombier Lille est capable de répondre à problèmes de fuite ou de [chauffage](/chauffagiste-depannage-chaudiere-lille/). 
+Plombier issu d'un centre de formation réputé sur Roubaix. Être capable d’aider nos clients rapidement et efficacement est la devise de l'entreprise. L'équipe plombier Lille et métropole Lilloise. est spécialisée dans tout ce qui touche de près ou de loin le secteur de la plomberie. Plombier Lille effectue également des interventions portant sur l’installation, la réparation et la maintenance des équipements de canalisations et d’évacuation d’eau.
 
 
 ## Un devis systématique de la part de plombier Lille
