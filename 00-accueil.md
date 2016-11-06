@@ -100,9 +100,23 @@ Notre équipe est constituée d'expert dans le domaine de la plomberie et du cha
 Cela leur permet d'intervenir plus rapidement que les autre.
 Ainsi BMC Services est moins cher et peut donc se dire un **plombier pas cher sur Lille**.
 
+## Un chauffagiste à votre service sur Lille
 
+Lors de la remise en route de votre chaudière, elle peut ne pas se remettre en route.
+Il faut alors appeler un chauffagiste pour un dépannage.
+BMC fait du dépannage de chaudière et chauffage central gaz ou fioul.
+BMC intervient sur les marques de chaudière les plus connues (Saunier Duval, De dietrich, Frisquet ...).
+Pour tout dépannage, le chauffagiste vous proposera un devis s'il faut remplacer une pièce de la chaudière.
 
+Le chauffagiste peut aussi réaliser l'entretien de votre chaudière annuel obligatoire.
+A cette occasion, le corps de chauffe de la chaudière sera nettoyer.
+Une analyse de combustion sera aussi réaliser afin de valider du bon réglage de votre chaudière.
+Le chauffagiste Lille vous remettra à la fin de l'entretien, une attestation d'entretien.
 
+Le chauffagiste sur Lille peut intervenir sur votre chaudière ou sur vos radiateurs.
+Nous vous proposons le remplacement de vos radiateurs par des radiateurs plus puissants lorsque ces derniers sont sous-dimensionnés.
+Parfois lorsqu'un radiateur ne chauffe pas, parfois c'est juste le robinet thermostatique qu'il faut remplacer.
+Cela BMC Chauffage peut vous le proposer avec un devis gratuit.
 
 
 
