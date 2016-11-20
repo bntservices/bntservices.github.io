@@ -95,7 +95,7 @@ Sans plus tarder faites appel à un plombier professionnel à des prix raisonnab
 Remplacer un chauffe-eau ou faire l'entretien du chaudière est une chose mais faut-il encore que le tarif suive.
 C'est pour cela que nous vous proposons un devis pour chacune de nos interventions.
 Des clients satisfait est une éxigence pour nous.
-Si vous faites appel à nos services comme dépannage fuite d'eau ou pose de chaudière ou entretien pompe à chaleur, nous serons rapidement sur place chez vous pour réaliser vos travaux.
+Si vous faites appel à nos services comme dépannage fuite d'eau ou pose de chaudière nous serons rapidement sur place chez vous pour réaliser vos travaux.
 Notre équipe est constituée d'expert dans le domaine de la plomberie et du chauffage.
 Cela leur permet d'intervenir plus rapidement que les autre.
 Ainsi BMC Services est moins cher et peut donc se dire un **plombier pas cher sur Lille**.

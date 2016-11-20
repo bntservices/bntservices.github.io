@@ -97,7 +97,7 @@ Toute installation de chauffage Gaz ou Fioul doit être entretenue par un profes
 
 Placé sous votre responsabilité, l'entretien d'une chaudière individuelle doit être fait chaque année par un professionnel qualifié pour garantir le bon fonctionnement de votre appareil de chauffage.
 
-Nos chauffagistes Lille se chargent de l’entretien, le dépannage et le réglage de vos systèmes de chauffage (chaudière gaz ou fioul, pompe à chaleur). Découvrez notre expertise dans le dépannage et la maintenance de vos équipements de chauffage.
+Nos chauffagistes Lille se chargent de l’entretien, le dépannage et le réglage de vos systèmes de chauffage (chaudière gaz ou fioul). Découvrez notre expertise dans le dépannage et la maintenance de vos équipements de chauffage.
 
 ![entretien chaudiere](/images/entretien-chaudiere-1.jpg "entretien chaudiere gaz")
 
