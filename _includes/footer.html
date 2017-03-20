@@ -9,7 +9,7 @@
       {% for my_page in site.pages %}
         {% if my_page.title_link %}
 	  {% if my_page.name contains "footer-" %}
-          <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title_link }}</a>
+          <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title_link }}</a> - 
           {% endif %}
         {% endif %}
       {% endfor %}
