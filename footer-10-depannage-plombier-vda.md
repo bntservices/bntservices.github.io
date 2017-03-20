@@ -15,10 +15,10 @@ Sur **Villeneuve d'Ascq**, vous pouvez contacter BMC Services afin de solutionne
 
 ## Chauffe-eau Villeneuve d'Ascq
 
-Pour assurer une bonne durée de vie pour son chauffe-eau, prendre une bonne marque est important **Atlantic**, Thermor, De Dietrich. De plus, il est préférable que le chauffe-eau soit poser par un **plombier professionnel** sur **Villeneuve d'Ascq**.
+Pour assurer une bonne durée de vie pour son chauffe-eau, prendre une bonne marque est important **Atlantic**, Thermor, De Dietrich. De plus, il est préférable que le chauffe-eau soit installé par un **plombier professionnel** sur **Villeneuve d'Ascq**.
 
 Un chauffe-eau nécessite parfois un entretien ou un détartrage. Mais il peut aussi avoir besoin d'un dépannage.
-Il est nécessaire de remplacer le groupe de sécurité lorsque ce dernier fuit. 
+Il est nécessaire de remplacer le groupe de sécurité lorsque ce dernier fui. 
 Ou il faut parfois changer la résistance lorsque l'eau devient de plus en plus tiède.
 Tout cela peut être déterminé par un **plombier professionnel** sur **Villeneuve d'Ascq**.
 
@@ -26,6 +26,6 @@ Tout cela peut être déterminé par un **plombier professionnel** sur **Villene
 
 Une chaudière qui dure est une chaudière bien entretenue. N'hésitez pas à faire appel à un chauffagiste professionnel pour assurer l'**entretien de votre chaudière** gaz.
 
-Un chauffagiste qualifié peut intervenir sur **Villeneuve d'Ascq** afin de réparer ou d'entenir votre chaudière qu mieux.
+Un chauffagiste qualifié peut intervenir sur **Villeneuve d'Ascq** afin de réparer ou d'entenir votre chaudière au mieux.
 
 
