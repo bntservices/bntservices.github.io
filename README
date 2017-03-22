@@ -1,48 +1,4 @@
 
-DONE - modifier correctement la description des pages existantes
-
-DONE - créer un sitemap.xml
-
-NON  - ça ne sert plus à rien - ajouter les méta keywords
-
-DONE - Monter la page d'accueil à 500 mots
-
-DONE - Monter la page dépannage plombier Lille à 500 mots
-
-DONE - Monter la page plombier lille pas cher lille à 500 mots
-
->>>> - Développer la page "chauffagiste Lille" >>> 600 mots
-
- - faire apparitre une partie "prix" dans chaque partie
-
- - ajouter une partie "robinet thermostatique" sur la page chauffagiste
-
- - ajouter une partie 'vase d'expansion chaudière" sur la page chauffagiste
-
- - ajouter "cumulus 150 litres" dans page chauffe-eau
-
- - ajouter "chauffe-eau sous évier" 
-
- - ajouter "chauffe-eau électrique"
-
- - ajouter "ballon thermodynamique prix"
-
-- ajouter une page wasquhal en s'inspirant de http://plombier-du-nord.fr/wasquehal/
-
-- Utiliser le site SEO http://www.edidier.com/analyse-web/fr/www/plomberie-lille-plombier.fr
-
-- enregistrer le site dans des annuaires en regardant les backlinks des autres sites
-
-- valider que chaque page à un min de 500 mots
-
-- Définir une liste de pages avec un bon titre:
-
-plombier-lille.txt
-depannage-plombier-lille.txt
-plombier-pas-cher-lille.txt
-douche italienne plombier lille.txt
-toilette suspendu plombier lille.txt
-
 ## Fonctionnement de Jekyll
 
 quelle est la premiere page chargée?
