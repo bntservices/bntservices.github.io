@@ -33,7 +33,7 @@ Nous sommes joignables même le week-end et même pendant les périodes de vacan
  - Installation ou remplacement de chaudière gaz
  - Réparation de fuite de gaz
  - Remplacement de radiateur
- - Pose de robinet thermostatique
+ - [Pose de robinet thermostatique](/robinets-thermostatiques-radiateurs/)
  - Déplacement de radiateur
  - Conseil et pose de thermostat d'ambiance
  - Désembouage et nettoyage de circuit chauffage
