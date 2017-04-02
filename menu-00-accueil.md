@@ -21,7 +21,7 @@ Nous sommes joignables même le week-end et même pendant les périodes de vacan
 
 ## Services de plomberie sur Lille
 
- - Recherche de fuites
+ - [Recherche de fuites](/recherche-de-fuite-lille/)
  - Débouchage
  - Curage, tout à l’égout
  - Broyeur et mécanismes WC
